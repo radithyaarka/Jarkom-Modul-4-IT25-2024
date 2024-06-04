@@ -1,10 +1,9 @@
+# Laporan Resmi
+
 | Nama                                    | NRP        |
 | --------------------------------------- | ---------- |
 | Mohammad Arkananta Radithya Taratugang  | 5027221003 |
 | Michael Wayne                           | 50272210xx |
-
-
-# Laporan Resmi
 
 ## Daftar Isi
 
