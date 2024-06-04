@@ -36,9 +36,12 @@ Berikut merupakan hasil `pemecahan` subnet besar yang akan dibentuk menjadi `jar
 ## CIDR
 ![image](./images/cidr_1.png)
 
-### Pembagian IP
-
-Berikut merupakan hasil dari pembagian IP berdasarkan Tree yang telah dibuat pada GNS menggunakan CIRD
+### Penggabungan IP
+Berikut merupakan hasil dari penggabungan IP berdasarkan Tree yang telah dibuat pada CPT menggunakan CIDR
 ![image](./images/cidr_2.png)
+
+### Pembagian IP
+Berikut merupakan hasil dari pembagian IP berdasarkan Tree yang telah dibuat pada CPT menggunakan CIDR
+![image](./images/cidr_3.png)
 
 ### Testing
