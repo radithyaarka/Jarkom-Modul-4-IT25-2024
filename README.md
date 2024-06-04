@@ -3,7 +3,7 @@
 | Nama                                    | NRP        |
 | --------------------------------------- | ---------- |
 | Mohammad Arkananta Radithya Taratugang  | 5027221003 |
-| Michael Wayne                           | 50272210xx |
+| Michael Wayne                           | 5027221037 |
 
 ## Daftar Isi
 
@@ -34,10 +34,11 @@ Berikut merupakan hasil `pemecahan` subnet besar yang akan dibentuk menjadi `jar
 ![tree vlsm fix](https://github.com/radithyaarka/Jarkom-Modul-4-IT25-2024/assets/143694651/be3f47bc-ee52-4096-8337-a98312afbae8)
 
 ## CIDR
-
+![image](./images/cidr_1.png)
 
 ### Pembagian IP
 
 Berikut merupakan hasil dari pembagian IP berdasarkan Tree yang telah dibuat pada GNS menggunakan CIRD
+![image](./images/cidr_2.png)
 
 ### Testing
