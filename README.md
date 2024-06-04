@@ -1,4 +1,4 @@
-![topologi gns3 vlsm](https://github.com/radithyaarka/Jarkom-Modul-4-IT25-2024/assets/143694651/6c0547ca-c8fb-45ad-934a-29b9168e955c)| Nama                                    | NRP        |
+| Nama                                    | NRP        |
 | --------------------------------------- | ---------- |
 | Mohammad Arkananta Radithya Taratugang  | 5027221003 |
 | Michael Wayne                           | 50272210xx |
