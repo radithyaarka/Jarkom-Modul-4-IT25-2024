@@ -14,17 +14,7 @@
   - [Prefix IP](#prefix-ip)
   - [Rute](#rute)
 - [VLSM](#vlsm)
-  - [Tree](#tree)
-  - [Pembagian IP](#pembagian-ip)
-  - [Konfigurasi Network](#konfigurasi-network)
-  - [Routing](#routing)
-  - [Testing](#testing)
 - [CIDR](#cidr)
-  - [Penggabungan IP](#penggabungan-ip)
-  - [Tree](#tree-1)
-  - [Pembagian IP](#pembagian-ip-1)
-  - [Testing](#testing-1)
-
 ## Topologi CPT CIDR
 
 ## Topologi GNS VLSM
@@ -35,6 +25,7 @@
 prefix IP `10.76`
 
 ## Rute
+![image](https://github.com/radithyaarka/Jarkom-Modul-4-IT25-2024/assets/143694651/38d5ba97-cf68-447e-be5b-774c2134bee7)
 
 ## VLSM
 
@@ -42,35 +33,8 @@ prefix IP `10.76`
 Berikut merupakan hasil `pemecahan` subnet besar yang akan dibentuk menjadi `jaringan` yang lebih kecil
 ![tree vlsm fix](https://github.com/radithyaarka/Jarkom-Modul-4-IT25-2024/assets/143694651/be3f47bc-ee52-4096-8337-a98312afbae8)
 
-### Pembagian IP
-
-### Konfigurasi Network
-
-### Testing
-
 ## CIDR
 
-### Penggabungan IP
-
-#### Kondisi Node Awal
-
-#### Penggabungan Node Pertama (B)
-
-#### Penggabungan Node Kedua (C)
-
-#### Penggabungan Node Ketiga
-
-#### Penggabungan Node Keempat
-
-#### Penggabungan Node Kelima
-
-#### Penggabungan Node Keenam
-
-#### Penggabungan Node Ketujuh
-
-#### Penggabungan Node Kedelapan
-
-### Tree
 
 ### Pembagian IP
 
