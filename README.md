@@ -48,3 +48,7 @@ Berikut merupakan hasil dari pembagian IP berdasarkan Tree yang telah dibuat pad
 ![image](./images/cidr_3.png)
 
 ### Testing
+## CIDR
+![image](./images/cidr_4.png)
+
+## VLSM
